@@ -36,6 +36,7 @@ During this generation process three unique rooms are also determined using a we
 
 There is much more detail on the procedural generation and rendering approach to these rooms within the project report, including:
 * Covering edge cases in procedural generation
+* Generating bespoke rooms (Spawn, Key and Exit rooms)
 * Weighting approaches
 * Tile mapping
 * Screen scrolling
